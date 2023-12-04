@@ -75,8 +75,7 @@ Citation Request:
 6. Number of Attributes: 16 + output attribute.
 7. Attribute Information:
 
-# Input variables:
-# bank client data:
+# Input variables
 1. age (numeric)
 2. job : type of job (categorical: 'admin.','blue-collar','entrepreneur','housemaid','management','retired','self-employed','services','student','technician','unemployed','unknown')
 3. marital : marital status (categorical: 'divorced','married','single','unknown'; note: 'divorced' means divorced or widowed)
@@ -94,5 +93,5 @@ Citation Request:
 15. previous: number of contacts performed before this campaign and for this client (numeric)
 16. poutcome: outcome of the previous marketing campaign (categorical: "unknown","other","failure","success")
 
-# Output variable (desired target):
-• 21 - y - has the client subscribed a term deposit? (binary: 'yes','no')
+# Output variable (desired target)
+y - has the client subscribed a term deposit? (binary: 'yes','no')
