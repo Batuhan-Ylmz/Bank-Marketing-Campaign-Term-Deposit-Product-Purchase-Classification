@@ -9,12 +9,12 @@ ABC Bank wants to sell it's term deposit product to customers and before launchi
 Bank wants to use ML model to shortlist customer whose chances of buying the product is more so that their marketing channel (tele marketing, SMS/email marketing etc)  can focus only to those customers whose chances of buying the product is more.
 This will save resource and their time ( which is directly involved in the cost ( resource billing)).
 
-# Develop model with Duration and without duration feature and report the performance of the model.
+# Developing model with Duration and without duration feature and reporting the performance of the model
 
 Duration feature is not recommended as this will be difficult to explain the result to business and also it will
 be difficult for business to campaign based on duration.
 
-# Task:
+# Task
 
 Business Understanding
 Data understanding
@@ -28,7 +28,7 @@ Converting ML metrics into Business metric and explaining result to business
 Prepare presentation for non technical persons.
  
 
-# Data Set Information :
+# Data Set Information
 
 The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
 
